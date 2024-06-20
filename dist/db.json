@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Doe 1.234",
+    "email": "john.doe@gmail.com",
+    "phone": "1234567890",
+    "githubLink": "www.github.com/john-doe",
+    "stopwatchTime": "00:00:04"
+  },
+  {
+    "name": "Saketh",
+    "email": "saketh@gmail.com",
+    "phone": "1234567890",
+    "githubLink": "qwertyuiop",
+    "stopwatchTime": "00:00:01"
+  },
+  {
+    "name": "John Smith",
+    "email": "john.smith@gmail.com",
+    "phone": "0987654321",
+    "githubLink": "www.github.com/john-smith",
+    "stopwatchTime": "00:00:03"
+  },
+  {
+    "name": "Adam Wills",
+    "email": "adam.wills@gmail.com",
+    "phone": "9876543245",
+    "githubLink": "www.github.com/adam-wills",
+    "stopwatchTime": "00:00:04"
+  },
+  {
+    "name": "George Brook",
+    "email": "george.brook@gmail.com",
+    "phone": "6543212345",
+    "githubLink": "www.github.com/george",
+    "stopwatchTime": "00:00:02"
+  }
+]
